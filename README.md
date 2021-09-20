@@ -1,4 +1,5 @@
-# I am a beginner developer in C# programming language
+# Hello, I'm Anatoliy
+Developer trainee in the C # programming language.
 
 ### About me
 I have been studying the C # programming language quite recently. At this time, I am familiar with the console
@@ -14,3 +15,7 @@ development platforms, as well as supplementing my knowledge of algorithms, data
 ### Follow me:
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/TolikOborin)
 [![Habr](https://img.shields.io/badge/-Habr-black?style=for-the-badge&logo=Habr)](https://habr.com/ru/users/AnatoliyOborin/)
+
+<div align="center" style="margin: 40px 0">
+  <img width="130px" src="https://komarev.com/ghpvc/?username=AnatoliyOborin&color=blue&label=Profile+views">
+</div>
